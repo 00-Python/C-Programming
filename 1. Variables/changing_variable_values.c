@@ -3,7 +3,6 @@
 int main() {
     int amount = 5;
     printf("I am a %dx Programmer now i can do a Hello World in C!\n", amount);
-
     printf("Let's change a variable's value to level up!\n");
 
     amount = 10;
